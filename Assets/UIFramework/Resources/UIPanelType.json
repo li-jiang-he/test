@@ -1,0 +1,31 @@
+{
+  "infoList": [
+    {
+      "panelTypeString": "TrainGrade",
+      "path": "UIPanel/TrainGradePanel"
+    },
+    {
+      "panelTypeString": "MainMenu",
+      "path": "UIPanel/MainMenuPanel"
+    },
+    {
+      "panelTypeString": "PeopleManager",
+      "path": "UIPanel/PeopleManagerPanel"
+    },
+    {
+      "panelTypeString": "TrainSubject",
+      "path": "UIPanel/SubjectPanel"
+    },
+    {
+      "panelTypeString": "TrainEnvir",
+      "path": "UIPanel/WeatherPanel"
+    },
+    {
+      "panelTypeString": "TrainPara",
+      "path": "UIPanel/TargetPanel"
+    }
+
+
+
+  ]
+}
